@@ -1,0 +1,5 @@
+﻿  ProjOOP.cpp
+  Tests.cpp
+  Создание кода...
+Tests.obj : error LNK2005: main уже определен в ProjOOP.obj
+D:\Practice\MyProj\MachineAndMechanics\x64\Debug\ProjOOP.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
